@@ -61,8 +61,6 @@ BOOST_PYTHON_MODULE(util) {
          .def("createManipulatorCollisionStructures", &Utils::createManipulatorCollisionStructures)         
          
     ;
-
-   
 }
 
 }
